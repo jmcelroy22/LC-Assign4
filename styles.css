@@ -1,5 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Europe</title>
-    <link rel="stylesheet" href="normalize.css>"
+h1 {
+    color: red;
+}
+
+h1{
+
+
+    color: blue;
+}
+p, h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+  
+.favorite {
+    color: red;
+    font-weight: bold;
+}
+
+.favorite > a {
+    color: red;
+    
+}
